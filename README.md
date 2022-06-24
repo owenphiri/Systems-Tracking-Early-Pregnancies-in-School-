@@ -1,0 +1,2 @@
+# Systems-Tracking-Early-Pregnancies-in-School-
+System should be able to strack female students in schools. A login system for the teachers and the parents of the community. Pop up messages sent to parents tracking female students present in schools and those absent. Pop up messages to sensitize dangers of pregnancies and early . System to update parents about children's performance in school on monthly basis.marriages. 
